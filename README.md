@@ -1,5 +1,8 @@
 # kanban-server
 
+Deployment link: server:
+https://kangbang.herokuapp.com
+
 ### GET /categories
 
 > Get all Categories
